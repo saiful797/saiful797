@@ -5,13 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiful797" alt="saiful797" /></a> </p>
 
+<h1 align="left">About Me:</h1>
 - I'm working now: [App Coderz](https://appcoderz.com)
 
-- 💬 Ask me about **JavaScript, React.js and Node.js**
+- 💬 Ask me about: **JavaScript, React.js and Node.js**
 
-- 📫 How to reach me **saifulislamsaif797@gmail.com**
+- 📫 How to reach me: **saifulislamsaif797@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1AGawINoQRW6vn2BMGBdJFCtawjG2oqOG/view)
+- 📄 Know about my experiences: [RESUME](https://drive.google.com/file/d/1AGawINoQRW6vn2BMGBdJFCtawjG2oqOG/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
