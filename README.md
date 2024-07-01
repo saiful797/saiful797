@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm SAIFUL ISLAM</h1>
-
 <div align="center">
   <img src="https://i.ibb.co/j4TCmxP/github-header-image.png">
 </div>
