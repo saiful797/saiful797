@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm SAIFUL ISLAM</h1>
-<img align="center" src="https://i.ibb.co/j4TCmxP/github-header-image.png">
 
+<div align="center">
+  <img src="https://i.ibb.co/j4TCmxP/github-header-image.png">
+</div>
 <h3 align="center">A passionate software developer from BANGLADESH.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiful797&label=Profile%20views&color=0e75b6&style=flat" alt="saiful797" /> </p>
