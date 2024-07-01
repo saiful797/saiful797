@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiful797" alt="saiful797" /></a> </p>
 
-- 🔭 I’m currently working on [Connect 2 Study](https://connect-2-study.web.app)
+-![](https://github.com/saiful797/saiful797/assets/95531286/a79c533f-e429-4987-9333-fabe6b27cab4) App Coderz
 
 - 💬 Ask me about **JavaScript, React.js and Node.js**
 
@@ -15,13 +15,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/saiful-islam-1213sr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/saifulislamsaif.sr.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/saifulislamsaif.sr.13" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__saiful___islam___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__saiful___islam___/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/saiful797" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/saiful797" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/saiful_1213" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/saiful_1213" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/saifulsaif13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/saifulsaif13" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/dFGvFcd4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/dFGvFcd4" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/saiful-islam-1213sr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-  generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/saifulislamsaif.sr.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/saifulislamsaif.sr.13" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/__saiful___islam___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__saiful___islam___/" height="30" width="40" /></a>
+  <a href="https://dribbble.com/https://dribbble.com/saiful797" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/saiful797" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/https://www.codechef.com/users/saiful_1213" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/saiful_1213" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/https://codeforces.com/profile/saifulsaif13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/saifulsaif13" height="30" width="40" /></a>
+  <a href="https://discord.gg/https://discord.gg/dFGvFcd4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/dFGvFcd4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
