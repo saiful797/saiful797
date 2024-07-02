@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saiful797" alt="saiful797" /></a> </p>
 
 <h3 align="left">About Me:</h1>
-- 🔭 I'm working now: App Coderz as a Junior Web Developer
+ * 🔭 I'm working now: App Coderz as a Junior Web Developer
 
 - 💬 Ask me about: **JavaScript, React.js and Node.js**
   
