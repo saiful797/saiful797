@@ -1,6 +1,19 @@
 # 💫 About Me:
 I am a Software Developer<br>
 
+<h3 align="left">About Me:</h1>
+
+- 🔭 I'm working now: **Junior Software Developer at [App Coderz](https://appcoderz.com/).**
+  
+- 💬 Ask me about: **JavaScript, React.js and Node.js**
+  
+- 🌱 I’m currently learning **Next.js**
+  
+- 📫 How to reach me: **saifulislamsaif797@gmail.com**
+
+- 📄 Know about my experiences: [RESUME](https://drive.google.com/file/d/1317s0GDq28c3RxAPlwyBFy_GqvyeH8Av/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saifulislamsaif.sr.13) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__saiful___islam___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saiful-islam-1213sr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saifulsaif1213) 
