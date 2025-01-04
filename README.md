@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.ibb.co/kXnB0CV/github-header-image.png">
 </div>
-# 💫 About Me:
+<h1> 💫 About Me: </h1>
 
 - 🔭 I'm working now: **Junior Software Developer at [App Coderz](https://appcoderz.com/).**
   
