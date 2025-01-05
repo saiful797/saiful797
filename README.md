@@ -7,7 +7,7 @@
   
 - 💬 Ask me about: **JavaScript, React.js and Node.js**
   
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **[Next.js](https://nextjs.org/docs)**
   
 - 📫 How to reach me: **saifulislamsaif797@gmail.com**
 
