@@ -3,7 +3,7 @@
 </div>
 <h1> 💫 About Me: </h1>
 
-- 🔭 I'm working now: **Junior Software Developer at [App Coderz](https://appcoderz.com/).**
+- 🔭 I'm working now: **Junior Software Developer at [App Coderz](https://appcoderz.com/)**
   
 - 💬 Ask me about: **JavaScript, React.js and Node.js**
   
