@@ -6,7 +6,7 @@
 
 - 🔭 I'm working now: **Junior Software Developer at [App Coderz](https://appcoderz.com/)**
   
-- 💬 Ask me about: **JavaScript, React.js and Node.js**
+- 💬 Ask me about: **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [React.js](https://react.dev/learn) and [Node.js](https://nodejs.org/docs/latest/api/)**
   
 - 🌱 I’m currently learning **[Next.js](https://nextjs.org/docs)**
   
